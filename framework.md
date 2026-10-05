@@ -22,14 +22,14 @@ Textbook style: axioms, definitions, propositions with premise lists, conjecture
 - **D6 (Informational point).** r is a point to v iff rank_v(r) = 1. [Izzy: a consequence, not a formalization] Depends: D5.
 - **D7 (Null relation).** 0 ∈ R is the relation that bears no distinction to any vantage. Exists by A3 if consistent. [Izzy: units-level; mine: the zero] Depends: A3, D3.
 - **D8 (Closure).** r is closed iff some composition of r with itself is indistinguishable from 0 to some vantage. [mine] Depends: D7, **D9 pending O2.**
-- **D9 (Composition).** Pending O2.
+- **D9 (Composition).** Pending O2. [open]
 
 ## Propositions
 
-- **P1 (No bottom).** No r ∈ R has a relatum outside R. Premises: A1. Proof: A1 states it. Trunk.
-- **C1 (A bottom is unverifiable).** "r has no inside" is not a statement any vantage can verify. Premises: A1, D1, D3, D6. Proof: if r had no inside, res_v(r) would be a single distinction for every v. But res_v(r) is also a single distinction for any r whose further distinctions v does not bear. The two cases are identical in every outside view. Trunk.
-- **C2 (No top).** For every v ∈ R there is a w ∈ R with v among its relata. Premises: A1, A3. Proof: such a w is consistent with A1–A5, hence in R by A3. Trunk.
-- **P2 (Units are vantage-relative).** The distinction counted as one by v is whatever r has rank_v(r) = 1; a different vantage may give the same r a different rank. Premises: D5, D6. Proof: rank is indexed by v by construction. Trunk. Pending O1.
+- **P1 (No bottom).** No r ∈ R has a relatum outside R. Premises: A1. Proof: A1 states it. Trunk. [derived]
+- **C1 (A bottom is unverifiable).** "r has no inside" is not a statement any vantage can verify. Premises: A1, D1, D3, D6. Proof: if r had no inside, res_v(r) would be a single distinction for every v. But res_v(r) is also a single distinction for any r whose further distinctions v does not bear. The two cases are identical in every outside view. Trunk. [derived; mine]
+- **C2 (No top).** For every v ∈ R there is a w ∈ R with v among its relata. Premises: A1, A3. Proof: such a w is consistent with A1–A5, hence in R by A3. Trunk. [derived]
+- **P2 (Units are vantage-relative).** The distinction counted as one by v is whatever r has rank_v(r) = 1; a different vantage may give the same r a different rank. Premises: D5, D6. Proof: rank is indexed by v by construction. Trunk. Pending O1. [derived]
 
 ## Conjectures
 
