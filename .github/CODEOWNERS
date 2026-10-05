@@ -1,0 +1,4 @@
+# The workflows and the check are reviewed by Izzy, as in cocoon-ai. The prose is not code-owned:
+# a single owner on everything would block the owner's own PRs, since nobody else could approve them.
+/.github/ @theCocoonStudio
+/scripts/ @theCocoonStudio
