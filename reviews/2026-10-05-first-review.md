@@ -60,7 +60,7 @@ What does not exist, as far as I know: the combination of relation-only ontology
 2. **J2 composition via hypersets** (O2): relations between relations as AFA graphs; closure = cycle; the outside view = bisimulation quotient. Fails if the quotient of a closed structure is not one state from outside (D8's picture would be wrong).
 3. **J3 saturation = bisimilarity; the level step = quotient.** Testable inside the J2 model.
 4. **J4 dimension as a resolution result** (M4): a causal-set-style estimator on relational structures; 3 is either generic or a property of the lab vantage. Fails if no dimension-like invariant is measurable by the structure's own vantages.
-5. **J5 loops and linking as terms** in a reflexive domain (the September question).
+5. **J5 loops and linking as terms** in a reflexive domain (the September question). Fails if no term pattern has the closure property of D8 (composition with itself indistinguishable from the null term), in which case the geometry needs a second half beside the calculus.
 
 ## 6. Access
 
