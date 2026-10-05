@@ -1,6 +1,6 @@
 # cocoon-relations
 
-A theory built from relations and nothing else, aimed at measurement. The claim under test: information is the globally meaningful quantity, and a theory general enough to make no choice of dimension can still be confirmed. The claim is a jump; the repo is the record of taking it.
+A theory built from relations and nothing else, aimed at measurement. The method and the thesis are one sentence (Izzy, 2026-10-05): adding relativity, which is generality, removes singularities. A singularity is wherever a theory demanded an absolute answer; index the question to a vantage and the singularity becomes a relation between vantages, a quantity, and what remains absolute moves one level up, to the declared edge. The claim under test: information is the globally meaningful quantity, and a theory general enough to make no choice of dimension can still be confirmed. The claim is a jump; the repo is the record of taking it.
 
 Izzy's project, begun 2026-09-06 in conversation with Claude, continued 2026-10-03/05 with Gemini. Every idea is Izzy's unless marked. Claude keeps the record and writes the reviews; Gemini verifies citations and stress-tests.
 
@@ -28,7 +28,7 @@ Changes land by PR, with the same review discipline as the other Cocoon repos. T
 
 In order, each a PR, each with what would make it fail stated first:
 
-1. **Fold the first review into the framework.** Split A3 into anti-foundation and no-top; weaken A5 to multiplicity; record bifurcation B2 (the self-relation as the only candidate point); add C3 (the total and the null relation are outside-indistinguishable); dissolve the node/point divergence in the notes. Izzy's call on each branch.
+1. **Fold the first review into the framework.** Done in the second PR, by one move of Izzy's: exhaustion relativised to the vantage, the self-relation admitted as the zero of self-vantage, which closes both forks (A3 and the point) at once; A5 weakened to multiplicity; C3 added; the node/point divergence dissolved in the notes. Remaining from the review: nothing structural; the jumps below.
 2. **Verify the literature table** (`reviews/2026-10-05-first-review.md` §4). Gemini checks every citation when its credits return; anything that does not hold is struck, not softened. The access PR for four read-only domains in the sandbox firewall (arXiv, Semantic Scholar's API, nLab, the Stanford Encyclopedia) is the alternative route, Izzy's decision.
 3. **J1: resolution as a polymatroid rank** (open item O1). Independence without probability; Shannon entropy recovered as a special case. Fails if the lab vantage's resolution is not submodular.
 4. **J2: composition as hypersets** (open item O2). Relations between relations as anti-founded graphs; closure as a cycle; the outside view as the bisimulation quotient. Fails if the quotient of a closed structure is not one state from outside.
