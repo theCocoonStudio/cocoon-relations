@@ -8,7 +8,7 @@ Textbook style: axioms, definitions, propositions with premise lists, conjecture
 
 - **A1 (Relation).** There is a class R. Every element of R is a relation among elements of R. Nothing else is in R. [Izzy]
 - **A2 (Relational existence).** For r, s ∈ R: r exists to s iff some t ∈ R has both r and s among its relata. There is no existence other than existence-to. [Izzy]
-- **A3 (Exhaustion, relative).** For every vantage v: whatever is consistent with what v resolves exists to v. Consistency is judged by the vantage over what it bears; there is no global consistency condition and none is needed. [Izzy; relativised 2026-10-05 after the first review showed the absolute form admits the relation of all relations not among their own relata, Russell's contradiction. Izzy: relativity removes the singularity; the self-vantage (D10) is where the absolute form divided by zero.]
+- **A3 (Exhaustion, relative).** For every vantage v: whatever is consistent with what v resolves exists to v. Consistency is judged by the vantage over what it bears; there is no global consistency condition and none is needed. [Izzy; relativised 2026-10-05 after the first review showed the absolute form admits the relation of all relations not among their own relata, Russell's contradiction. Izzy: index membership to the vantage and the singularity is read, not removed: the self-vantage (D10) is where the absolute form divided by zero, and the absolute quantifier that remains is O4.]
 - **A4 (Arity).** Every relation has at least two relata. Arity is otherwise unconstrained. [Izzy]
 - **A5 (Multiplicity).** What a relation bears is a multiplicity of distinctions, never a single one; discreteness is not primitive. Quantity (a measure over distinctions) is derived, not assumed: the first review found that "distribution" imported the real numbers, a bottom made of numbers. [Izzy; weakened 2026-10-05]
 
@@ -57,4 +57,4 @@ Textbook style: axioms, definitions, propositions with premise lists, conjecture
 - **O1.** "Conditioned" (D4) has no definition without probability. Candidate: define it on the distribution in A5.
 - **O2.** Composition (D9). When a relation is related to another relation, what is the outside view of that?
 - **O3.** D5 defines rank via a vantage, and a vantage is a relation with a rank. Show the recursion has a fixed point, and whether it is unique.
-- **O4.** "For every vantage v" in A3 and P3 is itself an absolute quantification: the framework's own meta-vantage, where the singularity relativity removed from the content now sits. Declared as the framework's edge (notes §1); to be shown harmless in the model of J0.
+- **O4.** "For every vantage v" in A3 and P3 is itself an absolute quantification: the framework's own meta-vantage, where the singularity read out of the content now sits. Declared as the framework's edge (notes §1); to be shown harmless in the model of J0.
