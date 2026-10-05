@@ -8,7 +8,7 @@ Started as a chat on 2026-09-06. Goal: a theory built on information as the glob
 
 ## 1. Method rules
 
-- Adding relativity (generality) removes singularities. A singularity is wherever a theory demanded an absolute answer; index the question to a vantage and it becomes a relation between vantages, and what stays absolute moves one level up to the declared edge. The method and the thesis in one line (Izzy, 2026-10-05); first used on the framework's own paradox (framework P3).
+- Singularities are read, not removed. A singularity is wherever a theory demanded an absolute answer; index the question to a vantage, a term inside the theory, and it becomes a relation between vantages with a computable residual; what stays absolute moves one level up to the declared edge, and the reading must show that it did. Izzy's line (2026-10-05): "adding relativity (generality) to remove singularities is technically what this whole thing is about"; sharpened the same evening in review: relativity and generality are two moves (the indexing is a choice generality does not force), relativity reads singularities rather than removing them (the black holes it predicts are its own counterexample to "removes"), and the vantage as an inside term is the clause that distinguishes this from relativity as it exists. First used on the framework's own paradox (P3).
 - Be general. That is the only decision. Everything else must follow from it or be flagged.
 - No empirical fact from the lab vantage enters as an axiom. Empirical facts go on the must-reproduce list (§6).
 - Every claim states its vantage (inside / outside / on) and, where it matters, the vantage's rank.
