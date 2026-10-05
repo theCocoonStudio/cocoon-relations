@@ -54,8 +54,13 @@ Jump J1 (most actionable): define resolution structurally, without probability, 
 
 What does not exist, as far as I know: the combination of relation-only ontology, measurement and resolution as the primitive notions, no ambient, and the must-reproduce discipline. Each piece is built; the composition is not. That is the repo's job, and it is narrow enough to attempt.
 
+## 4b. Addendum, 2026-10-05, same evening: Izzy's move closes both forks
+
+Offered the two forks of §1 (A3 and the point), Izzy answered with one move: "what if your definition is incomplete? what if you add relativity to remove the singularity." Membership made relative to a vantage leaves the paradox nowhere to stand except the self-vantage, the self-relation, which bears no information; from every other vantage the question has one answer. So the point is admitted as the zero of self-vantage, and exhaustion survives in relative form with consistency judged locally, which also removes the undecidability objection. Then: "adding relativity (generality) to remove singularities is technically what this whole thing is about." Recorded as the method in one line, with Claude's caveat accepted by both: relativity relocates the singularity to the indexing vantage, one level up; the discipline is checking that it reached the declared edge and did not land in the content (O4). Known cousins, unverified: Tarski's levels of truth; Kripke's fixed-point theory with a gap value for self-reference; Scott's local consistency predicate. The write-up is framework P3, D10, C3, X1 resolved, B2 closed, O4 added. The derivation is Izzy's; the contradiction and the split were Claude's.
+
 ## 5. Jumps, ranked, with disproof conditions
 
+0. **J0 relativised exhaustion has a model.** Build one (hypersets or a Scott information system) in which membership is vantage-indexed and the self-relation is the only self-vantage. Fails if any relation other than the self-relation can be its own vantage at the same level, or if "for every vantage" (O4) cannot be kept at the framework's edge.
 1. **J1 resolution as a polymatroid rank** (O1). Fails if the lab vantage's resolution is not submodular.
 2. **J2 composition via hypersets** (O2): relations between relations as AFA graphs; closure = cycle; the outside view = bisimulation quotient. Fails if the quotient of a closed structure is not one state from outside (D8's picture would be wrong).
 3. **J3 saturation = bisimilarity; the level step = quotient.** Testable inside the J2 model.
