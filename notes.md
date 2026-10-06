@@ -146,3 +146,14 @@ Verdicts: A1/A2 hold (AFA gives the consistency proof of no-bottom; A2 makes exi
 ## 12. The vantage, memory and the grade (2026-10-06, in conversation, the night the 2D fluid was ported)
 
 Opened as the first jump (J1, independence without probability), in the paper world at Izzy's request. Izzy, in order: a vantage is absolute; a vantage is a fictitious dimension, +1 to what it measures, not a point, since there is no space; independence is borne out "with simple linear algebra" given that stricter definition of vantage; "time or space as the +1, locally only time, I think"; the answer to whether a vantage can see hidden information is probabilistic, a memory predicts it with high chance, and that is the default; "our math itself must be a relation, as an object"; "if reality is relational, the math must adjust." Claude's contributions, marked as such in the framework: the fold as the projection's kernel (D11) and its invisibility to a linear vantage (P4); memory as the level up (D13); the grade as a ratio of ranks and density as the predicted fraction (D14, D15); the math's rank (P5), completeness as a density (X3), the preserved invariant of an adjusting math (X4); the three forks B3, B4, B5. Flatland's answer to the fold question is Abbott's (between drawings, with time as the second drawing in disguise), and the mechanism is Izzy's +1. Then Izzy's fork principle, applied to the whole tree: B1, B3, B4 removed, B5 relocated, B2 read back as C4; M3 becomes the quantitative target (X6). Izzy, on resolution: "resolution is a number, scale", which fixed the principle's safe form.
+
+## 13. The fork principle, retrospective evidence (2026-10-06; context, not proof)
+
+Dichotomies physics later found to be graded, each an instance of a fork removed with a distribution, stated without the principle:
+
+- wave or particle → amplitudes, a graded superposition;
+- local or non-local → a bound between the classical and the maximal correlation (M3), neither branch;
+- classical or quantum → a degree of decoherence;
+- discrete or continuous → resolution, a scale;
+- deterministic or random → a distribution over outcomes conditioned on what the vantage resolves.
+  Prospective evidence, the kind that would count: X6, the correlation bound as a ratio of ranks, derived from the framework's own counts. Izzy's intent (2026-10-06): prove the principle outright if possible (C5 is the sketch) or gather empirical evidence for it; both.
