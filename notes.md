@@ -158,3 +158,37 @@ Dichotomies physics later found to be graded, each an instance of a fork removed
 - discrete or continuous → resolution, a scale;
 - deterministic or random → a distribution over outcomes conditioned on what the vantage resolves.
   Prospective evidence, the kind that would count: X6, the correlation bound as a ratio of ranks, derived from the framework's own counts. Izzy's intent (2026-10-06): prove the principle outright if possible (C5 is the sketch) or gather empirical evidence for it; both.
+
+## 14. The seam: comparing two drawings with no shared paper (2026-10-07, Claude's exploration at Izzy's "go explore"; unreviewed, every item mine unless marked)
+
+Izzy asked where the Math fails between the micro and the macro, diluted to an equivalent problem that needs no algebra, and said the theory must give an interpretation of everything already in the lab (duality, entanglement, tunnelling, decoherence, the Higgs mechanism, gravity) before it is called a theory. What follows is from training, offered as a check against Izzy's reasoning, not as a source.
+
+### 14.1 The equivalent problem
+
+Quantum theory: the paper is fixed and the picture is a spread over possible drawings on it. Gravity: the paper is itself drawn by the picture. Together: a spread over papers, with no shared grid to say which point of one paper is which point of another. Every tool the Math has (adding two drawings, comparing them, "the same point") presupposes a shared paper. The failure is one: summing over drawings that do not share a paper. Inside the framework that is P7: the comparison is the +1, which is composition, O2. The seam and the oldest open item are one object.
+
+### 14.2 Five faces of the one failure
+
+- **The cut.** Unitary evolution is linear and deterministic; measurement is a jump with probabilities; the theory does not say where the jump is or what counts as a measurer. Decoherence explains the loss of interference, not the selection of an outcome. Reading: the cut is made by the pair, never by one vantage (P6); decoherence is the pair's +1 folding a member's cuts; outcome selection is not in the data (D16), and the grade is the memory's (D14). Literature check, unverified: envariance derives the Born weights from symmetries of the entangled pair; the same shape as P6.
+- **Time.** Quantum theory needs an external clock; gravity makes time part of what is drawn; combined formally, time disappears and nothing evolves. Reading: time is the order of a memory (D13), not a property of R; two theories clash only when one order is assumed for both. Prediction shape: no global order is derivable. Disproof: a derivable global order. Bears on X5.
+- **Location.** Quantum observables are local, a value at a point; gravity has no local observables, since a point has no identity apart from what is drawn there. Reading: no local observable by construction (D6, D17); quantum locality must be recovered as cuts of a vantage saturated relative to its own memory (D15). Unwritten.
+- **Infinities.** Gravity's coupling carries units of length, so every correction at a smaller scale needs a new unmeasured number; infinitely many. Reading: each level's fix is the math adjusting (X4); a dimensional coupling is a scale between vantages (notes §3), not a number. Unwritten, non-predictive.
+- **Information.** A black hole radiates thermally and erases what fell in; quantum theory forbids erasing. Current leads tie geometry to entanglement, correlation building the paper, which is M1 turned into the grid. Reading: C3 and C4: "lost" is unresolvable from every outside vantage, density below one for each, no absolute loss. Shape only.
+
+### 14.3 A toy model with a number
+
+Cuts as vectors over the two-element field (the formal seed of §12, restarted at the pair per D16/P6). A pair's data as V_A ⊕ V_B ⊕ (V_A ⊗ V_B); a pair vantage u as a subspace of it. grade_pairings(u) = (rank u − rank proj_A u − rank proj_B u) / (dim V_A · dim V_B): zero is the direct sum, the classical pair; one is every pairing resolved, the maximal pair (B3 as removed). X6 says the measured bound is a value of this grade.
+
+The finding: a ratio of finite ranks is rational, and M3's bound sits at an irrational fraction of the classical-to-maximal range (2√2 between 2 and 4: about 0.414). So X6 as a ratio of single ranks cannot hit the lab exactly. Two exits: a limit of ranks, which brings the reals back through the door D14 closed; or the ratio placed on pairings, where the quantities are products and the same fraction is exactly one third ((8 − 4)/(16 − 4)). X7 records the second as speculation, low. It is the first place O2 can be tested against a number: the composition rule must produce the third with nothing tuned, or X7 dies.
+
+### 14.4 Izzy's lab list, sorted
+
+Duality, tunnelling and decoherence are inside quantum theory: any reading that reproduces the spread gets them. Entanglement is M1 to M3. The Higgs mechanism is a symmetry breaking inside field theory: a saturation, a phase transition in Izzy's October words, a test of the fork principle rather than of the seam. Gravity is the seam. The one target is 14.1; if it is reached with relations and grades alone, the five faces are corollaries; if not, nothing else on the list matters.
+
+### 14.5 The layer Izzy called for
+
+Izzy, 2026-10-07: "truth isn't absolute. my ones and zeros don't carry the same rules in another node. only probabilistically. it's a layer we haven't addressed but which i called for and here it is, because it's at the horizon of the information cloud. i know this might be currently a corollary of ours, but it has to be more than that." As a corollary it is D17: truth is a cut, cuts are per vantage, and a cut is carried between vantages by the +1 at a density. What would make it more than a corollary is a rule for how a grade changes under transport, O5, the candidate for the next theorem. Also Izzy's, the same night: "the theorem is that an oracle cannot exist. not for a given computation. the theorem, as everything else, is graded": an oracle exists for a given computation (a test that can fail it) and every such oracle is a computation with its own edge, judged one level up, with no end to the tower (C2, X3). As a check, not a source: the literature's oracles are defined only relative to one another, in a strict hierarchy with no absolute member; Izzy's version adds the grade.
+
+### 14.6 Not written tonight
+
+The relational wording of u (O2) without the field; the recovery of quantum locality (14.2, third face); anything derived for the fourth and fifth faces; the composition of grades (O5). The first number (X7) waits on the first of these.
