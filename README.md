@@ -26,7 +26,7 @@ Changes land by PR, with the same review discipline as the other Cocoon repos. T
 
 ## Next
 
-**First among the things to be critical of:** the fork principle (framework §Bifurcations), a general leap taken knowingly on 2026-10-06. It removed three forks and turned the third must-reproduce item into the first number the theory would predict (X6). If the disproof list resists, it is the first thing to rule out.
+**First among the things to be critical of:** the fork principle (framework §Bifurcations), a general leap taken knowingly on 2026-10-06. It removed three forks and turned the third must-reproduce item into the first number the theory would predict (X6). If the disproof list resists, it is the first thing to rule out. **2026-10-07:** X6 as a ratio of single ranks cannot land on the measured bound, which is irrational; the ratio placed on pairings gives exactly one third (X7, speculation, low). Composition (O2) now has a number to be tested against.
 
 In order, each a PR, each with what would make it fail stated first:
 
@@ -37,5 +37,6 @@ In order, each a PR, each with what would make it fail stated first:
 5. **J3: saturation as bisimilarity, the level step as the quotient.** Tested inside J2's model.
 6. **J4: dimension as a resolution result** (must-reproduce M4), a causal-set-style estimator on relational structures. Fails if no dimension-like invariant is measurable by the structure's own vantages.
 7. **J5: loops and linking as terms** in a reflexive domain, the September question.
+8. **J6: composition of grades** (O5): how a cut's grade changes when carried from one vantage to another through the vantage on both (D17). The micro–macro seam read as P7 and notes §14 says this is where the Math fails, summing drawings that share no paper. Fails if the transported grade depends on anything beyond the two vantages' grades and the +1's fold; and X7 fails if the composition rule does not yield one third of the pairing range untuned.
 
 The check (`npm`-free: prettier and `scripts/check.mjs`) and the reviewer-policy status are the repo's two required statuses once they have run.
