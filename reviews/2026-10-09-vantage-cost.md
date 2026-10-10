@@ -70,31 +70,31 @@ Methuselah's reading (the lines the restated items cite): shared cut in two sens
 ### Round 1: attack the vantage cost theorem (2026-10-09 19:26 New York)
 
 > Methuselah, round one against a claim of Izzy's, 2026-10-09 evening. Read /home/node/cocoon-relations/framework.md in full and /home/node/cocoon-relations/notes.md from its start up to, not including, the heading "## 17." Do not read §17: it holds Claude's own check of this claim, and this round is blind to it.
-> 
+>
 > The claim, Izzy's words verbatim in order (typos bracketed):
-> 
+>
 > 1. "theorem: it's cheaper for a lower vantage to push down into the information cloud than it is for a higher vantage, even if that initial "point" is available to both. the start of a proof says that the initial resolution for the closer vantage allows it [to see] more detail, while the higher vantage allows to see more "direction" (connections)"
-> 
+>
 > 2. "that means the higher vantage can extra[ct] more informati[o]n out of the point it sees because it has more things to relate it to. but it also costs more. this is a fact that will translate to gravity/QM and ML. and solve them"
-> 
+>
 > 3. "ill explain: unpacking the dimensions, the higher vantage has to traverse more relations, on av[er]age, to read the point"
-> 
+>
 > 4. "since time doesnt exist, this affects the cost. if time existed, a fictitious dimension would define the intersection, and traversing a node would be first order. but what we are saying is not in relation to time. so along a certain fic[t]itious dimension, the cost might be the same, but the true cost isn't. and if the cost were the same at every level of concentric spheres, for example, the system would break. decoherence couldnt be a battle. read another way, and directly applies to my point about IQ tests being dumb: the only comparable information is what is extractable lower down. so the "excess" (the complex) is discarded. but that is only from one perspective: the paper. the reality is there is more information extractable by the higher sphere because it is armed with more relations to compare the point again[s]t. there's your complex plane interpretation."
-> 
+>
 > 5. "what solving does isn't finish "learning" it simply represents a significant push into the information cloud in some direction th[at] unlocks more relations. the laws will change because our instruments will grow in power (the "laws" of "Physics")"
-> 
+>
 > Your stance: object. First state the reading you take the claim at (what "lower" and "higher" vantage are in the framework's terms, what "the point" is, what "cost" is as Izzy defines it in 3). Then list every place where, at that reading, the claim is contradicted by an axiom, definition, proposition or removal text of the framework; where a step of the proof (1, then 3) does not follow from what precedes it; or where the claim needs a term the framework does not define (name the term and the nearest line that would have to define it). Strongest first. For each: the sentence of the claim it breaks, the file:line it rests on, and what would repair it. Do not object to wording the definitions license, and do not evaluate a sentence at a reading other than the one you stated. Report only what fails; nothing on what holds. If nothing fails, say so in one line. Cap the report at twelve objections.
 
 ### Round 2: attack the written vantage cost items (2026-10-09 20:06 New York)
 
 > Methuselah, round two, 2026-10-09 evening, against eight items just written into /home/node/cocoon-relations/framework.md (the branch framework/vantage-cost is checked out there): D18, D19, P9, C7, C8, X10, X11, X12. Read framework.md in full, and /home/node/cocoon-relations/notes.md from its start up to, not including, the heading "## 17." Do not read §17 of notes.md: it holds Claude's own checks of these items, and this round is blind to them. Do not read the reviews folder.
-> 
+>
 > Stance: object. First state the reading you take each item at (what "above", "connection", "cost", "unpaid", "excess" are, in the lines the items cite). Then, for each of the eight, at that reading: is every step of its proof or derivation licensed by the lines it cites; does each cited definition say what the item uses it for; is any term undefined (name it and the nearest line that would have to define it); does the item contradict any axiom, definition, proposition or removal text elsewhere in framework.md; does the item's "Fails if" name a disproof a vantage could actually run. Also: do the two definitions D18 and D19 make P9 a definition in disguise, and if so say what content, if any, survives in P9. Strongest objection first, each with the item, the file:line it rests on, the sentence broken, and the repair. Report only what fails; if an item has nothing failing, do not mention it. Cap the report at twelve objections. Do not evaluate an item at a reading other than the one you stated for it.
 
 ### Round 3: attack the restated items (2026-10-09 21:11 New York)
 
 > Methuselah, round three, 2026-10-09 night, against eight items restated in /home/node/cocoon-relations/framework.md (the branch framework/vantage-cost is checked out there): D18, D19, P9, C7, C8, X10, X11, X12. Read framework.md in full, and /home/node/cocoon-relations/notes.md from its start up to, not including, the heading "## 17." Do not read §17 of notes.md: it holds Claude's own checks of these items, and this round is blind to them. Do not read the reviews folder.
-> 
+>
 > Stance: object. First state the reading you take each item at: what "shared cut", "connection", "cost", "above", "excess", "horizon" and "unpaid" are, in the lines the items cite. Then, for each of the eight, at that reading: is every step licensed by a line it cites, quoted? Are the premises sufficient for the conclusion, or is something used that is not listed? Is each Fails-if runnable in principle (does it name what would be observed, at which vantage, and does any line let that vantage observe it)? Is anything undefined in framework.md used as if defined? Does any item contradict another item or a definition it cites? Pay particular attention to D19's new definition of a connection as "a cut w bears of the pair r, x (P6) that depends at w on c and on w's cuts of x jointly: in the span of the two and in neither alone (D4, D5)": is "the pair r, x" an object any line defines; is "cuts of a pair" licensed by P6's text; is the rank cost_w(c) well-defined given D3 and D5 as written; and does P9's inequality follow from D5 once D17's identification is granted, or is something more used? Also check whether the items' labels (trunk once D12 has its relational wording; pending O2) match the labels of the lines they depend on.
-> 
+>
 > Return a numbered list of objections, each against a quoted line of the item, each with the repair that would meet it. No praise, no summary of what holds. Decide nothing. End with one line: the count of objections, and which items have none.
