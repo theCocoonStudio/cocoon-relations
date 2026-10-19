@@ -20,7 +20,7 @@ Izzy, 2026-10-05: "the weakest parts are also the most actionable. possibly pred
 - `framework.md` — axioms, definitions, propositions, conjectures, bifurcations, must-reproduce, open items. The formal text.
 - `notes.md` — the working notes: method, declared axioms, constructions, withdrawn rules, disproof list, open questions, sources, leads.
 - `reviews/` — dated critical reviews: each claim against its strongest objection, a verdict, and the jumps ranked with disproof conditions.
-- `scripts/` — `check.mjs`, the conventions check CI runs: premise lists and attributions in the framework, a disproof condition per jump in every review, a README layout that names what exists.
+- `scripts/` — `check.mjs`, the conventions check CI runs: premise lists and attributions in the framework, a disproof condition per jump in every review, a README layout that names what exists, and no record or project `.npmrc` anywhere in the tree (the audit's batch of 2026-10-19: the records belong to the private cocoon-ai-records; an `.npmrc` would switch install scripts back on at the sandbox's start).
 
 Changes land by PR, with the same review discipline as the other Cocoon repos. The session transcripts behind this record are in the private records repo.
 
