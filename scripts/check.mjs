@@ -4,8 +4,24 @@
 //                 every axiom, definition, proposition, corollary and conjecture carries an attribution in brackets.
 //   reviews/*.md: every review has a jumps section with a disproof condition per jump.
 //   README.md:    the layout section names every top-level file and folder that exists.
+//   the tree:     no record (records/, chat/, exports/, an export file, a session export) and no project .npmrc.
 import { readFileSync, readdirSync, statSync } from 'node:fs'
+import { join } from 'node:path'
 const problems = []
+// No record and no project .npmrc in this public repository (the audit's batch, 2026-10-19; the same rule as
+// cocoon-copula's tests/structure.sh and cocoon-ai's structure test): the records (records/, chat/, exports/, an
+// export-<agent>.md, a session export) belong to the private cocoon-ai-records and reached a public repository
+// twice by hand on 2026-10-17 with nothing to refuse them; a project .npmrc is read by npm over the user's
+// config and would switch install scripts back on at the sandbox's start. The records-guard workflow refuses
+// the same at the push; this check refuses the merge.
+const RECORD = /^(records|chat|exports)\/|(^|\/)export-(claude|gemini)\.md$|(^|\/)\d{4}-\d{2}-\d{2}-session-[0-9a-f]{8}\.(md|jsonl)$|(^|\/)\.npmrc$/
+const walk = (dir) =>
+  readdirSync(dir).flatMap((e) => {
+    if (e === '.git' || e === 'node_modules') return []
+    const p = dir === '.' ? e : join(dir, e)
+    return statSync(p).isDirectory() ? walk(p) : [p]
+  })
+for (const p of walk('.')) if (RECORD.test(p)) problems.push(`${p}: a record or an .npmrc; neither ever belongs in a public repository`)
 const fw = readFileSync('framework.md', 'utf8')
 for (const line of fw.split('\n')) {
   const m = line.match(/^- \*\*([ACDPXMOB]\d+)/)
